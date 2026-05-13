@@ -5,7 +5,7 @@
 QR ScanPro is a professional-grade web utility designed for the skincare and e-commerce industry. It bridges the gap between digital marketing and product transparency by allowing developers and brands to generate high-fidelity, branded QR codes instantly — without ever saving files to a server.
 
 🔗 **Live Demo:** [https://uxzsm6t3merppqnazqmxr2.streamlit.app/](https://uxzsm6t3merppqnazqmxr2.streamlit.app/)  
-📁 **GitHub Repo:** [https://github.com/nayabnayyer/QR_Project](https://github.com/nayabnayyer/QR_Project)
+📁 **GitHub Repo:** [https://github.com/nayabnayyer/QR_code_generator_web_app.py](https://github.com/nayabnayyer/QR_code_generator_web_app.py)
 
 ---
 
